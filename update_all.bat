@@ -6,5 +6,3 @@ cd .\blockly\
 git pull
 cd ..
 git add -A
-git commit
-git push
