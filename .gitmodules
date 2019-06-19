@@ -1,7 +1,7 @@
 [submodule "blockly"]
 	path = blockly
 	url = https://github.com/SybelBlue/blockly.git
-	branch = linearization
+	branch = keyboard_nav
 [submodule "closure-library"]
 	path = closure-library
 	url = https://github.com/google/closure-library.git
