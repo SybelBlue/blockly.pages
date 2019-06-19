@@ -3,6 +3,6 @@ cd .\closure-library\
 git pull
 cd ..
 cd .\blockly\
-git pull
+git pull https://github.com/SybelBlue/blockly.git linearization
 cd ..
 git add -A
